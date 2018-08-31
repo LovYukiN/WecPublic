@@ -1,4 +1,5 @@
-```python
+```
+
 import numpy as np
 from matplotlib import pyplot as plt
 
@@ -45,4 +46,5 @@ plt.show()
 print('\n')
 print('Theta matrix after regression')
 print(Theta)
+
 ```
